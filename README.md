@@ -21,5 +21,5 @@ On a separate terminal run:
 
 # TO DO:
 - [] Ui
-
+- [] Deploy
 (sorry fot the bad english)
