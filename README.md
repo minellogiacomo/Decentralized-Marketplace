@@ -28,8 +28,3 @@ Finally:
 to run the test. All tests should pass. 
 
 ***
-
-# TO DO:
-- [] Ui
-- [] Deploy
-(sorry fot the bad english)
